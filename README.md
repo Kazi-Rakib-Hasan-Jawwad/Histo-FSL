@@ -1,1 +1,1 @@
-Few-Shot Inference on Histopathology-Pretrained foundation models
+Few-Shot Inference on Histopathology-Pretrained Foundation Models.
